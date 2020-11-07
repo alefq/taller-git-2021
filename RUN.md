@@ -1,1 +1,1 @@
-Instrucciones para ejecutar
+Instrucciones para ejecutar git
